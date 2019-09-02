@@ -13,7 +13,7 @@ Description: The haversine is a function used to calculate the distance between 
     <https://books.google.cat/books?id=030t0OqlX2AC>.
     For an example of the derivation of haversine see the reply by Doctor Rick on
     this email thread <http://mathforum.org/library/drmath/view/51879.html>.
-    Implimentation of haversine in various programming languages are available 
+    Implementation of haversine in various programming languages are available 
     on rosettacode <https://rosettacode.org/wiki/Haversine_formula>.
 License: MIT + file LICENSE
 Imports: Rcpp (>= 1.0.1)
