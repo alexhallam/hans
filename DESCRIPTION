@@ -9,12 +9,8 @@ Encoding: UTF-8
 Description: The haversine is a function used to calculate the distance between a pair of 
     latitude and longitude points while accounting for the assumption that the points 
     are on a spherical globe. This package provides a fast, dataframe compatible, 
-    haversine function. For the first publication on the haversine calculation see
-    <https://books.google.cat/books?id=030t0OqlX2AC>.
-    For an example of the derivation of haversine see the reply by Doctor Rick on
-    this email thread <http://mathforum.org/library/drmath/view/51879.html>.
-    Implementation of haversine in various programming languages are available 
-    on rosettacode <https://rosettacode.org/wiki/Haversine_formula>.
+    haversine function. For the first publication on the haversine calculation see 
+    Joseph de Mendoza y Ríos (1795) <https://books.google.cat/books?id=030t0OqlX2AC> (In Spanish).
 License: MIT + file LICENSE
 Imports: Rcpp (>= 1.0.1)
 LinkingTo: Rcpp
