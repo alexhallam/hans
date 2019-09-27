@@ -33,3 +33,7 @@ df <- tibble::tibble(lat1, lon1, lat2, lon2) %>%
   mutate(hav = haversine(lat1, lon1, lat2, lon2))
 ```
 
+## Performance
+
+<a href='https://cran.r-project.org/web/packages/hans/index.html'><img src='man/figure/hans_plot.jpg' align="right"/></a>
+
