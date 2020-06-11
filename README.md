@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![CRAN version](http://www.r-pkg.org/badges/version/hans)](https://cran.r-project.org/package=hans)
+https://cranlogs.r-pkg.org/badges/hans
 <!-- badges: end -->
 
 The goal of hans is to make a fast dataframe compatible haversine function.
